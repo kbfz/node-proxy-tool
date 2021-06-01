@@ -1,6 +1,6 @@
 {
   "name": "node-proxy-tool",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "this is a node-proxy cli tool",
   "main": "index.js",
   "bin": {

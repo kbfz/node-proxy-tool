@@ -1,6 +1,6 @@
-## 报表平台 node服务代理工具
+## 基于node服务代理工具
 
-#### 快速构建node服务代理
+#### 快速构建node服务代理 （node.js + express）
 
 ```
  npm install node-proxy-tool -g
