@@ -1,10 +1,10 @@
-## 基于node服务代理工具
+## 报表平台 node服务代理工具
 
-#### 快速构建node服务代理 （node.js + express）
+#### 快速构建node服务代理
 
 ```
  npm install node-proxy-tool -g
- proxy init <origin> <port>      //origin(要代理的地址) //port(本地的端口)
+ proxy init      //origin(要代理的地址) //port(本地的端口)
  
 ```
 

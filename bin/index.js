@@ -12,7 +12,8 @@ program
     .usage('<command> [options]')
 
 program
-    .command('init <origin> <port>') // 命令 
+    // .command('init <origin> <port>') // 命令 
+    .command('init') // 命令 
     .description("init <origin> <port>(要代理的地址和端口)") // 当前命令的说明 命令的描述
     .action(require('../lib/init'))  // 执行命令要做的事 
 
